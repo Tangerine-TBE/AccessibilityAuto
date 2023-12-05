@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AccessibilityAuto</string>
+    <string name="text_please_choose" translatable="false">请选择</string>
+    <string name="go_to_accessibility_settings" translatable="false"><![CDATA[请打开设置->无障碍服务->并开启]]></string>
+    <string name="text_accessibility_service_description">使脚本自动操作(点击、长按、滑动等)所需，若关闭则只能执行不涉及自动操作的脚本。</string>
+
+</resources>
