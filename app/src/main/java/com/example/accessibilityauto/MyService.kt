@@ -2,6 +2,7 @@ package com.example.accessibilityauto
 
 import android.util.Log
 import com.example.accessibilityauto.custom.App
+import com.example.accessibilityauto.custom.event.base.SuspendEventManager
 import com.example.accessibilityauto.custom.task.TaskProperty
 import com.example.accessibilityauto.custom.task.TaskType
 import com.example.accessibilityauto.service.AccessibilityService

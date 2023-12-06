@@ -3,6 +3,7 @@ package com.example.accessibilityauto.custom
 import android.accessibilityservice.AccessibilityService
 import android.view.accessibility.AccessibilityEvent
 import android.view.accessibility.AccessibilityWindowInfo
+import com.example.accessibilityauto.custom.event.base.EventController
 import com.example.accessibilityauto.service.AccessibilityDelegate
 
 /*拦截所有事件，视情况下发事件*/
